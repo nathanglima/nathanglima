@@ -1,6 +1,7 @@
 # Hi, I'm Nathan!
-<h3>I'm a Sofware Developer!</h3>
-<p>I have development experience in web solutions.</p>
+<p>I'm a Software Developer with more 3 years of experience in web solutions. I developed applications using PHP, JavaScript and preprocessors CSS.</p>
+<p>I too experience in relational database development languages (Oracle PL/SQL and Microsoft SQL Server Transact-SQL).</p>
+<p>Some applications that I developed were chatbots of customer service, digital charge application, dashboard monitoring of these applications, among others...</p>
 <p>I'm currently focused on developing web applications with React and NodeJS.</p>
 
 <hr>
